@@ -1,0 +1,2 @@
+class CustomerConsolidator < ApplicationRecord
+end

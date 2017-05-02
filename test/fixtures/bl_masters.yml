@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code_bl: MyString
+  list_container: MyString
+  dale_of_berthing: 2017-04-29
+  code_travel: MyString
+  shipping_company: one
+  consolidator: one
+
+two:
+  code_bl: MyString
+  list_container: MyString
+  dale_of_berthing: 2017-04-29
+  code_travel: MyString
+  shipping_company: two
+  consolidator: two
